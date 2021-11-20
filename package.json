@@ -1,0 +1,24 @@
+{
+  "name": "sunder-durable-objects",
+  "version": "1.0.0",
+  "description": "A REST API for a simple Todos app built with Sunder - a framework for cloudflare workers - and durable objects - persisted server state ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanshit-sagar/cloudflare-sunder.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "durable",
+    "objects"
+  ],
+  "author": "sanshit.sagar@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanshit-sagar/cloudflare-sunder/issues"
+  },
+  "homepage": "https://github.com/Sanshit-sagar/cloudflare-sunder#readme"
+}
